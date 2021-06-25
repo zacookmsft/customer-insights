@@ -30,6 +30,8 @@ Before your organization can use the predictions feature, the following prerequi
 
 2. Your environment is attached to your Common Data Service instance.
 
+3. You have AI Builder [licenses and capacity][/ai-builder/administer-licensing] allocated for your environment.
+
 If you're [creating a new environment](manage-environments.md), configure it in the **Create an environment** dialog and select **Advanced**. If you've already created an environment, go to its settings and select **Advanced**. Either way, in the **Use predictions** section, enter the Common Data Service instance URL to which you want to attach your environment.
 
 ## Create a prediction in the Customer entity
